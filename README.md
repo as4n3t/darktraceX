@@ -1,59 +1,83 @@
 # 🔐 DarktraceX Cybersecurity Agency
 
-Welcome to **DarktraceX**, a professional cybersecurity and web security agency.
+Welcome to **DarktraceX** — a professional cybersecurity agency focused on securing digital assets and building trusted systems.
+
+---
 
 ## 🚀 Our Services
-- 🔍 Penetration Testing
-- 🌐 Website Security Audits
-- 🕵️ OSINT Investigations
-- 🛡️ Vulnerability Assessment
-- 💻 Secure Web Development
+
+- 🔍 Penetration Testing  
+- 🌐 Website Security Audits  
+- 🕵️ OSINT Investigations  
+- 🛡️ Vulnerability Assessment  
+- 💻 Secure Web Development  
+
+---
+
+## 🔄 Our Security Workflow
+
+1. Reconnaissance & Analysis  
+2. Vulnerability Assessment  
+3. Ethical Exploitation  
+4. Reporting & Fix Recommendations  
+5. Deployment & Monitoring  
 
 ---
 
 ## 👨‍💻 Our Team
-- Security Analysts
-- Penetration Testers
-- OSINT Experts
-- Web Developers
-- UI/UX Designers
-- SEO Specialists
+
+- Security Analysts  
+- Penetration Testers  
+- OSINT Experts  
+- Web Developers  
+- UI/UX Designers  
+- SEO Specialists  
 
 ---
 
 ## 🔧 Tools & Technologies
-- Nmap
-- Burp Suite
-- Wireshark
-- Metasploit
-- Linux (Kali)
+
+- Nmap  
+- Burp Suite  
+- Wireshark  
+- Metasploit  
+- Kali Linux  
 
 ---
 
-## 📂 Projects Showcase
+## 📂 Our Work & Projects
 
-### 🔹 Website Security Scan Tool
-A basic vulnerability scanner for testing websites.
+🔧 **Security Tools**  
+👉 https://github.com/as4n3t/darktracex-security-tools  
 
-### 🔹 OSINT Toolkit
-Collection of tools for information gathering.
+🌐 **Website Security Workflow**  
+👉 https://github.com/as4n3t/Website-Security-Flow  
 
-### 🔹 Secure Website Deployment
-End-to-end secure web development pipeline.
+📁 **Portfolio Repository**  
+👉 https://github.com/as4n3t/darktraceX  
 
 ---
 
 ## 📞 Contact
+
 📧 saim4sec@gmail.com  
 
 ---
 
 ## ⭐ Why Choose DarktraceX?
+
 ✔ Professional Team  
-✔ Secure Workflow  
-✔ Client Transparency  
-✔ Affordable Packages  
+✔ Security-Focused Approach  
+✔ Transparent Communication  
+✔ Reliable & Affordable Solutions  
 
 ---
 
-> “We don’t just build systems, we secure them.”
+## 🚀 Work With Us
+
+We help businesses build secure, scalable, and reliable systems.  
+Feel free to explore our repositories and reach out for collaboration.
+
+---
+
+> 🔐 “We don’t just build systems — we secure them.”
